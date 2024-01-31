@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practical1</string>
+    <string name="name">Name: Alice</string>
+    <string name="enrolment">Enrolment No.: 01</string>
+    <string name="aim">Aim: Design Login activity and implement control events using layout.</string>
+</resources>
